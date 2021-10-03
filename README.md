@@ -4,7 +4,7 @@
 ![Hex.pm](https://img.shields.io/hexpm/v/fluex)
 ![GitHub Release Date](https://img.shields.io/github/release-date/kaitsh/fluex)
 
-**TODO: Add description**
+**This library is currently unmaintained**
 
 ## Installation
 
